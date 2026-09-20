@@ -1,0 +1,14 @@
+{
+  "source_type": "owned",
+  "creator": "EdulabsAI public website capture operator",
+  "source_url": "https://edulabsai.com",
+  "license": "first-party EdulabsAI product website",
+  "license_url": "https://edulabsai.com",
+  "consent_or_release": "not applicable; public first-party product interface with no customer data",
+  "edits": [
+    "automated responsive viewport capture",
+    "smooth-scroll screen recording",
+    "original generated background audio"
+  ],
+  "notes": "No authenticated pages, source code, user records, customer data or third-party footage accessed."
+}
