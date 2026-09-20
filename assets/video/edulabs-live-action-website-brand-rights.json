@@ -1,0 +1,91 @@
+{
+  "campaign": "edulabs-real-01-website-brand-46s",
+  "source_type": "licensed",
+  "source_url": "https://www.pexels.com/license/",
+  "license": "Pexels License \u2014 free use, including commercial use; no endorsement implied.",
+  "assets": [
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/teacher-support.mp4",
+      "source_url": "https://www.pexels.com/video/a-teacher-looking-at-a-student-s-work-8342757/",
+      "download_url": "https://videos.pexels.com/video-files/8342757/8342757-hd_1080_1920_25fps.mp4",
+      "creator": "Pavel Danilyuk / Pexels",
+      "usage": "Illustrative classroom footage; no customer relationship implied",
+      "asset_sha256": "51ed0c7817d4121677e3aabc63e4ec042f87f5f78b9e1651b9f4bdf81c830165",
+      "cdn_byte_match_verified": true,
+      "cdn_byte_match_verified_at": "2026-09-20T21:43:01.294654+00:00"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/globe-learning.mp4",
+      "source_url": "https://www.pexels.com/video/teacher-and-student-in-geography-class-5427890/",
+      "download_url": "https://videos.pexels.com/video-files/5427890/5427890-hd_1080_1920_25fps.mp4",
+      "creator": "Pexels contributor",
+      "usage": "Illustrative classroom footage; no customer relationship implied",
+      "asset_sha256": "b4daed723cc089284788a4f31a81941fae0d3348c87b3872b70f916aad93c482",
+      "cdn_byte_match_verified": true,
+      "cdn_byte_match_verified_at": "2026-09-20T21:43:01.294654+00:00"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/teacher-discussion.mp4",
+      "source_url": "https://www.pexels.com/video/a-teacher-discussing-her-lessons-7716092/",
+      "download_url": "https://videos.pexels.com/video-files/7716092/7716092-hd_1080_2048_25fps.mp4",
+      "creator": "Pexels contributor",
+      "usage": "Illustrative classroom footage; no customer relationship implied",
+      "asset_sha256": "4c6aa6d72b390af406f2da510c3a19df49badd37e728e4791320d4ad875d89a3",
+      "cdn_byte_match_verified": true,
+      "cdn_byte_match_verified_at": "2026-09-20T21:43:01.294654+00:00"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/students-writing.mp4",
+      "source_url": "https://www.pexels.com/video/students-writing-on-their-notebook-8616782/",
+      "download_url": "https://videos.pexels.com/video-files/8616782/8616782-hd_1080_1920_25fps.mp4",
+      "creator": "Pexels contributor",
+      "usage": "Illustrative classroom footage; no customer relationship implied",
+      "asset_sha256": "6c6166560af9ca6826bf8c0fa25b9d89c53ba9405b6aba178ffb6a0b4b2a4210",
+      "cdn_byte_match_verified": true,
+      "cdn_byte_match_verified_at": "2026-09-20T21:43:01.294654+00:00"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/classroom-wide.mp4",
+      "source_url": "https://www.pexels.com/video/back-view-of-students-and-teacher-in-classroom-5897639/",
+      "download_url": "https://videos.pexels.com/video-files/5897639/5897639-hd_1080_1920_24fps.mp4",
+      "creator": "Pexels contributor",
+      "usage": "Illustrative classroom footage; no customer relationship implied",
+      "asset_sha256": "d311fa42cf5f551e6ee389b84210048bba35f94d2fad25440b9fd01ea50fae6d",
+      "cdn_byte_match_verified": true,
+      "cdn_byte_match_verified_at": "2026-09-20T21:43:01.294654+00:00"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/educational-original-48s.wav",
+      "source_url": null,
+      "creator": "Generated locally for EdulabsAI",
+      "license": "EdulabsAI-owned original generation",
+      "usage": "Music bed",
+      "asset_sha256": "643b924fefe21a70a2eedf23b920fda37970c33976b63f77e636c650ac3cec9a"
+    },
+    {
+      "local_file": "pipeline/assets/brand/edulabsai-wordmark.png",
+      "source_url": "https://edulabsai.com",
+      "creator": "EdulabsAI",
+      "license": "EdulabsAI-owned first-party brand asset",
+      "usage": "Brand wordmark",
+      "asset_sha256": "a56bb8d360c65c432c0e16b882a180340ce3b9b3197b2b8edc307130f45e51a5"
+    },
+    {
+      "local_file": "pipeline/assets/brand/PlusJakartaSans-Variable.ttf",
+      "source_url": "https://fonts.google.com/specimen/Plus+Jakarta+Sans",
+      "creator": "Tokotype / Google Fonts",
+      "license": "SIL Open Font License 1.1",
+      "usage": "Brand typography",
+      "asset_sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8"
+    }
+  ],
+  "asset": "pipeline/drafts/edulabs-real-01-website-brand-46s.mp4",
+  "asset_sha256": "4ba9115d0f9ead60472bdeac58d47745b8d0021b12279131284d06162d9e075f",
+  "derived_asset": true,
+  "generated_at": "2026-09-20T21:43:01.294654+00:00",
+  "provenance_verified_at": "2026-09-20T21:43:01.294654+00:00",
+  "visual_reviewed_at": "2026-09-20T21:43:01.294654+00:00",
+  "visual_review_result": "passed",
+  "duration_seconds": 45.6,
+  "notes": "Licensed actors are illustrative; no endorsement or customer relationship is implied. No customer data or product source is present."
+}
