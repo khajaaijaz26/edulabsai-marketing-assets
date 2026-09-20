@@ -1,0 +1,20 @@
+{
+  "campaign": "EdulabsAI 14-day social pilot",
+  "cadence": "3 posts per channel per week",
+  "channels": ["instagram", "twitter", "linkedin"],
+  "claims_source": "https://edulabsai.com public metadata retrieved 2026-09-21",
+  "public_claims": [
+    "Connected AI teaching workspace for K-12",
+    "Create curriculum-aware K-12 lessons, visual slides, quizzes and worksheets",
+    "Teach live, use safe class chat, and turn evidence into next steps"
+  ],
+  "posts": [
+    {"asset": "campaign-01.png", "theme": "Plan curriculum-aware resources", "copy": "Start with a clear learning goal, then build curriculum-aware resources around it. Explore the connected EdulabsAI teaching workspace at https://edulabsai.com #EdTech #Teachers #K12"},
+    {"asset": "campaign-02.png", "theme": "Create visual learning materials", "copy": "Create lessons, visual slides, quizzes and worksheets in one connected teaching workflow. See EdulabsAI: https://edulabsai.com #TeachingResources #AIinEducation"},
+    {"asset": "campaign-03.png", "theme": "Keep work connected", "copy": "Keep planning, resources and classroom delivery connected instead of switching between disconnected tools. Learn more: https://edulabsai.com #TeacherWorkflow #EdTech"},
+    {"asset": "campaign-04.png", "theme": "Review before sharing", "copy": "Good classroom AI needs review, clear claims and accessible materials. EdulabsAI keeps educators in control of every next step. https://edulabsai.com #ResponsibleAI #Education"},
+    {"asset": "campaign-05.png", "theme": "Teach live and guide assessment", "copy": "Plan resources, teach live, guide focused assessments and turn evidence into practical next steps. Explore EdulabsAI: https://edulabsai.com #K12Education #Assessment"},
+    {"asset": "campaign-06.png", "theme": "Safe connected classroom", "copy": "Connect curriculum-aware resources, live teaching and a safe class channel in one educator-led workspace. https://edulabsai.com #DigitalLearning #Teachers"}
+  ],
+  "email_and_direct_outreach": "approval_required_no_automatic_send"
+}
