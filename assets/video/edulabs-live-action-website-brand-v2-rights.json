@@ -1,0 +1,68 @@
+{
+  "campaign": "edulabs-real-01-website-brand-v2",
+  "source_type": "licensed",
+  "source_url": "https://www.pexels.com/video/a-teacher-looking-at-a-student-s-work-8342757/",
+  "license": "Pexels License for footage — free use, including commercial use; no endorsement implied. https://www.pexels.com/license/",
+  "assets": [
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/teacher-support.mp4",
+      "source_url": "https://www.pexels.com/video/a-teacher-looking-at-a-student-s-work-8342757/",
+      "download_url": "https://videos.pexels.com/video-files/8342757/8342757-hd_1080_1920_25fps.mp4",
+      "creator": "Pavel Danilyuk / Pexels",
+      "asset_sha256": "51ed0c7817d4121677e3aabc63e4ec042f87f5f78b9e1651b9f4bdf81c830165",
+      "usage": "Illustrative classroom footage; no customer relationship implied"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/globe-learning.mp4",
+      "source_url": "https://www.pexels.com/video/teacher-and-student-in-geography-class-5427890/",
+      "download_url": "https://videos.pexels.com/video-files/5427890/5427890-hd_1080_1920_25fps.mp4",
+      "creator": "Pexels contributor",
+      "asset_sha256": "b4daed723cc089284788a4f31a81941fae0d3348c87b3872b70f916aad93c482",
+      "usage": "Illustrative classroom footage; no customer relationship implied"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/teacher-explaining-no-mask.mp4",
+      "source_url": "https://www.pexels.com/video/female-teacher-explaining-her-lesson-8088322/",
+      "download_url": "https://videos.pexels.com/video-files/8088322/8088322-hd_1080_1920_30fps.mp4",
+      "creator": "Pexels contributor",
+      "asset_sha256": "7dd9ee150d905d258dfdcd13c0dcd27ec8664ee25371c4c5bf7ef412b7d16d48",
+      "usage": "Replacement classroom footage confirmed visually to contain no face masks"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/students-writing.mp4",
+      "source_url": "https://www.pexels.com/video/students-writing-on-their-notebook-8616782/",
+      "download_url": "https://videos.pexels.com/video-files/8616782/8616782-hd_1080_1920_25fps.mp4",
+      "creator": "Pexels contributor",
+      "asset_sha256": "6c6166560af9ca6826bf8c0fa25b9d89c53ba9405b6aba178ffb6a0b4b2a4210",
+      "usage": "Illustrative classroom footage; no customer relationship implied"
+    },
+    {
+      "local_file": "pipeline/assets/edulabs-real-01/classroom-wide.mp4",
+      "source_url": "https://www.pexels.com/video/back-view-of-students-and-teacher-in-classroom-5897639/",
+      "download_url": "https://videos.pexels.com/video-files/5897639/5897639-hd_1080_1920_24fps.mp4",
+      "creator": "Pexels contributor",
+      "asset_sha256": "d311fa42cf5f551e6ee389b84210048bba35f94d2fad25440b9fd01ea50fae6d",
+      "usage": "Illustrative classroom footage; no customer relationship implied"
+    },
+    {
+      "local_file": "pipeline/assets/music-candidates/mixkit-dreaming-big-31.mp3",
+      "source_url": "https://mixkit.co/free-stock-music/mood/uplifting/",
+      "download_url": "https://assets.mixkit.co/music/31/31.mp3",
+      "title": "Dreaming Big",
+      "creator": "Ahjay Stelino",
+      "license": "Mixkit Stock Music Free License — permitted for commercial and non-commercial projects. https://mixkit.co/license/#musicFree",
+      "asset_sha256": "8c89819547b42a80750fb25f37a960a1f45f6fd66bc8d784ac817b98b002897c",
+      "usage": "Uplifting piano-and-strings educational music bed; edited excerpt"
+    }
+  ],
+  "brand_graphics": {
+    "source_type": "owned",
+    "creator": "EdulabsAI website brand system",
+    "source_url": "https://www.edulabsai.com/",
+    "official_profile_logo": "https://www.edulabsai.com/brand/edulabsai-profile-coral.png",
+    "wordmark_source": "Official inline website header logo reconstructed as a transparent production overlay",
+    "wordmark_sha256": "a56bb8d360c65c432c0e16b882a180340ce3b9b3197b2b8edc307130f45e51a5",
+    "palette": ["#FFF8EF", "#FFE4CE", "#2D1B47", "#5A4778", "#B83218", "#FFB627", "#8A5C00", "#FFFFFF"]
+  },
+  "notes": "Masked-teacher footage was removed. No third-party logos, customer claims, testimonials or fabricated product UI are included."
+}
